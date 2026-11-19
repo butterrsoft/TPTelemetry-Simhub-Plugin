@@ -3,7 +3,7 @@ A Simhub plugin that helps import telemetry for driving games that don't have it
 
 Made with Claude rather than sitting around waiting, sorry!
 
-Works with Simhub v9.9.4 through v9.13.2 (newer versions untested but may work). To install you need the dotnet 10 SDK and ideally USBPcap too: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.402-windows-x64-installer, 
+Works with Simhub v9.9.4 through v9.13.2 (newer versions untested but may work). To install you need the dotnet 10 SDK and ideally USBPcap too: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.402-windows-x64-installer, and https://desowin.org/usbpcap/
 
 
 , Download the latest release, unpack, and follow the readme.md document 
