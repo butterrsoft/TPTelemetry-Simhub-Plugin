@@ -9,10 +9,10 @@ Download the latest release, unpack, and follow the video tutorial or the readme
 
 The list of titles this plugin currently works with is:
 ### TP
-BG4JP - BG4 Tuned
-Grid
-GTI Club Supermini Festa
-Initial D 6
+- BG4JP - BG4 Tuned
+- Grid
+- GTI Club Supermini Festa
+- Initial D 6
 inital D Zero v2.3
 MKDX 118
 MKDX USA
