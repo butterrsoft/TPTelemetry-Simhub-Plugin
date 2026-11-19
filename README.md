@@ -41,7 +41,7 @@ Some versions on Simhub had problems importing an effects profile. Try renaming 
 
 Without USBPcap, Outrun2 and BG4JP do not get some extra effects (and only Logitech G25 and G27 wheels are confirmed working with those particular effects in those games so far, other wheels are untested so let me know.) You need to go into the capture section of the plugin, tick the boxes and set your wheel - see the pic.
 
-<img width="842" height="370" alt="Capture" src="https://github.com/user-attachments/assets/3ca5e7a8-3a37-434f-ab02-990ff0f4458c" />
+<img width="842" height="370" alt="Capture" src="https://github.com/user-attachments/assets/16409e75-224b-420d-adf7-8f07e5f80c98" />
 
 You can add custom games using the plugin, but it does require work. I will expand this section with a how-to or how-to-help soon!
 
