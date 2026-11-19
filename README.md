@@ -39,6 +39,8 @@ Emulators and launchers change as they update, and this may break the plugin. If
 
 Without USBPcap, Outrun2 and BG4JP do not get some extra effects (and only Logitech G25 and G27 wheels are confirmed working with those particular effects in those games so far, other wheels are untested so let me know.)
 
+Some versions on Simhub had problems importing an effects profile. Try renaming any TPTelemetry .siprofile to something completely different before importing it, if so.
+
 You can add custom games using the plugin, but it does require work. I will expand this section with a how-to or how-to-help soon!
 
 ## Thanks
