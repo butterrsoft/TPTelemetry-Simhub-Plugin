@@ -43,6 +43,8 @@ Without USBPcap, Outrun2 and BG4JP do not get some extra effects (and only Logit
 
 <img width="842" height="370" alt="Capture" src="https://github.com/user-attachments/assets/16409e75-224b-420d-adf7-8f07e5f80c98" />
 
+
+## Adding Games
 You can add custom games using the plugin, but it does require work. I will expand this section with a how-to or how-to-help soon!
 
 ## Thanks
