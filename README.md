@@ -3,10 +3,9 @@ A Simhub plugin that helps import telemetry for driving games that don't have it
 
 Made with Claude rather than sitting around waiting, sorry!
 
-Works with Simhub v9.9.4 through v9.13.2 (newer versions untested but may work). To install you need the dotnet 10 SDK and ideally USBPcap too: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.402-windows-x64-installer, and https://desowin.org/usbpcap/
+Works with Simhub v9.9.4 through v9.13.2 (newer versions untested but may work). To install you need the dotnet 10 SDK and possibly USBPcap too: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-10.0.402-windows-x64-installer, and https://desowin.org/usbpcap/
 
-
-, Download the latest release, unpack, and follow the readme.md document 
+Download the latest release, unpack, and follow the video tutorial or the readme.md document in the TPTelemetry archive. 
 
 The list of titles this plugin currently works with is:
 ### TP
@@ -35,5 +34,6 @@ Daytona USA
 Sega Rally
 Sega Touring Car Championship
 
+Without USBPcap, Outrun2 and BG4JP do not get all effects (and only Logitech G25 and G27 wheels are confirmed working with those particular effects so far, other wheels are untested so let me know.)
 
-Thanks to the TP team, Flyinghead, The Supermodel Team, Elsemi, Sailorsat, MasterRaver, Boomslang, MightyMike, and all the other excellent emu and loader devs out there without whose work this project would be pointless.
+Thanks to the TP team, Flyinghead, The Supermodel Team, Elsemi, Sailorsat, MasterRaver, Boomslang, MightyMike, and all the other excellent devs out there without whose work this project would be pointless. Please consider supporting them.
