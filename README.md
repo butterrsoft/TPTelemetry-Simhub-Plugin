@@ -34,6 +34,10 @@ The list of titles this plugin currently works with is:
 - Sega Rally
 - Sega Touring Car Championship
 
-Without USBPcap, Outrun2 and BG4JP do not get all effects (and only Logitech G25 and G27 wheels are confirmed working with those particular effects in those games so far, other wheels are untested so let me know.)
+## Notes
+Without USBPcap, Outrun2 and BG4JP do not get some extra effects (and only Logitech G25 and G27 wheels are confirmed working with those particular effects in those games so far, other wheels are untested so let me know.)
 
+You can add custom games using the plugin, but it does require work. I will expand this section with a how-to or how-to-help soon!
+
+## Thanks
 Thanks to the TP team, Flyinghead, The Supermodel Team, Elsemi, SailorSat, MasterRaver, Boomslang, MightyMike, and all the other excellent devs out there without whose work this project would be pointless. Please consider supporting them.
