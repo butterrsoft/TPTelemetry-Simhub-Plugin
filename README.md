@@ -39,6 +39,8 @@ Emulators and launchers change as they update, and this may break the plugin. If
 
 Flycast needs digital outputs on, and any FFB-plugin files removed from the Flycast directory. (Digital outputs also provide FFB which will crash the emu).
 
+Supermodel needs the -outputs=net commandline option. Or, under misc in the GUI set the outputs to Network.
+
 Some versions of Simhub had problems importing an effects profile. Try renaming any TPTelemetry .siprofile to something completely different before importing it, if so.
 
 Without USBPcap, Outrun2 and BG4JP do not get some extra effects (and only Logitech G25 and G27 wheels are confirmed working with those particular effects in those games so far, other wheels are untested so let me know.) You need to go into the capture section of the plugin, tick the boxes and set your wheel - see the pic.
