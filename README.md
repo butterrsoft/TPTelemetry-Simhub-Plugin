@@ -49,7 +49,7 @@ Without USBPcap, Outrun2 and BG4JP do not get some extra effects (and only Logit
 
 
 ## Adding Games
-You can add custom games using the plugin, but it does require work. The short version is that you use cheatengine to find base addresses or stable pointers to game values you want (speed, revs, gears) and then import the .ct table like a game profile. And then possibly use the USBPcap function to capture FFB that is sent to your wheel to create further Simhub properties. I will expand this section with a how-to or how-to-help soon!
+You can add custom games using the plugin, but it does require work. The short version is that you find base addresses or stable pointers to game values you want (speed, revs, gears) and then add them. You can also import CheatEngine tables like a game profiles. And then possibly use the USBPcap function to capture FFB that is sent to your wheel to create further Simhub properties. I will expand this section with a how-to or how-to-help soon!
 
 ## Thanks
 Thanks to the TP team, Flyinghead, The Supermodel Team, Elsemi, SailorSat, MasterRaver, Boomslang, MightyMike, and all the other excellent devs out there without whose work this project would be pointless. Please consider supporting them.
